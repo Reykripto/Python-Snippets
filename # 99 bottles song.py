@@ -1,4 +1,4 @@
-# 99 bottles song 💖
+# 99 bottles song 
 # String concatenation
 i = 99
 for i in range(99, 0, -1):
